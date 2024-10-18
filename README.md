@@ -1,5 +1,5 @@
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariam-badr-mb&show_icons=true&locale=en" alt="mariam-badr-mb" /></p><h1 align="center">Hi everyone👋, I'm mariam Badr from Egypt</h1>
-<h3 align="center">Software Engineer || AI|Ml Engineer || Problem Solving, & Competitive Programming "</h3>
+<h3 align="center">Software Engineer || Ml Engineer || Problem Solving, & Competitive Programming "</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariam-badr-mb&label=Profile%20views&color=0e75b6&style=flat" alt="mariam-badr-mb" /> </p>
 
