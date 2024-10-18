@@ -1,13 +1,11 @@
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariam-badr-mb&show_icons=true&locale=en" alt="mariam-badr-mb" /></p><h1 align="center">Hi everyone👋, I'm mariam Badr from Egypt</h1>
-<h3 align="center">Software Engineer | AI & Cybersecurity Enthusiast | Competitive Programmer | Python Developer | Database Architect | Machine Learning | Problem Solving, & Competitive Programming"</h3>
+<h3 align="center">Software Engineer || AI|Ml Engineer || Problem Solving, & Competitive Programming "</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariam-badr-mb&label=Profile%20views&color=0e75b6&style=flat" alt="mariam-badr-mb" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariam-badr-mb" alt="mariam-badr-mb" /></a> </p>
 
-- 🔭 I’m currently working on **College website**
-
-- 🌱 I’m currently learning **Udemy Cyber Security , machine learning ,etc**
+- 🌱 I’m currently learning ** Machine learning , web Development **
 
 - 📫 How to reach me **mariambadr145@gmail.com**
 
